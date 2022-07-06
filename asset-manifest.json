@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Heart_Report_onReact/static/css/main.7acaea2f.css",
+    "main.js": "/Heart_Report_onReact/static/js/main.07d3183d.js",
+    "index.html": "/Heart_Report_onReact/index.html",
+    "main.7acaea2f.css.map": "/Heart_Report_onReact/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Heart_Report_onReact/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
